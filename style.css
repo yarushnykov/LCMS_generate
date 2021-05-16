@@ -1,0 +1,23 @@
+.cellButton{
+    font-size: 17px;
+    padding: 5px 10px;
+    width: 30px;
+    background-color: aqua;
+    text-align: center;
+}
+.runButton{
+    font-size: 17px;
+    padding: 5px 10px;
+    width: 120px;
+    background-color: aqua;
+}
+.initButton{
+    font-size: 17px;
+    padding: 5px 10px;
+    width: 30px;
+    background-color:aqua;
+    text-align: center;
+}
+.downText{
+    font-size: 17px;
+}
